@@ -22,7 +22,7 @@ endif
 
 #### vim-plug ###
 ```
-Plug 'challenger-deep-theme/vim', { 'as': 'challenger-deep' }
+Plug 'challenger-deep-theme/vim', { 'as': 'challenger_deep' }
 ```
 
 ### Screenshot ###
